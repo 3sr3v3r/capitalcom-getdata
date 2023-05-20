@@ -9,3 +9,5 @@ historical data can be written in backtrader compatible OHLC format or in forext
 The main file [capitalcom_historic_data.py] contains the variables to execute the API requests.
 
 The API calls are based on this repository https://github.com/hootnot/oanda-api-v20 that was written for Oanda.
+
+[config_capitalcom.json] should contain your capital.com email address, password and API key as well as indication if you want to connect to the live or demo environment.
